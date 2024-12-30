@@ -18,6 +18,6 @@ const e=()=>{
     alert("e")
 }
 
-const f=()=>{
-    alert("f")
+const newFunc=()=>{
+    alert("newFunc")
 }
