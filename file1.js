@@ -14,4 +14,6 @@ const d=()=>{
     alert("d")
 }
 
-
+const f=()=>{
+    alert("f")
+}
